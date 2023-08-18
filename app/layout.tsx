@@ -3,7 +3,7 @@ import './globals.css'
 export const metadata = {
   title: 'Readme Generator for GitHub',
   description: 'Craft effective and visually appealing GitHub READMEs.',
-  image: '/public/Logo.png',
+  image: '/Logo.png',
   url: 'https://githubread.me',
 }
 
@@ -27,7 +27,7 @@ export default function RootLayout({
           property="og:description"
           content="Craft effective and visually appealing GitHub READMEs."
         />
-        <meta property="og:image" content="/public/Logo.png" />
+        <meta property="og:image" content="/Logo.png" />
         <meta property="og:image:width" content="512" />
                 <meta property="og:image:height" content="512" />
                 <meta property="og:image:type" content="image/png" />
